@@ -12,5 +12,5 @@
 
 - **React.js:** Completed Cisco Systems India internal training (2023) on React.js, covering both basic and advanced concepts including components, props, state management, lifecycle methods, and hooks [Cisco](https://www.linkedin.com/company/cisco/posts/?feedView=all).
 
-- **Star Performer Award:** Awarded Star Performer at [Your Company Name] in 2025 for exceptional performance, dedication, and impactful contributions to key projects [↗️](https://github.com/GajendraKaushik/certificates_and_achievements/blob/main/certifates/Star_Performer.PDF). 
+- **Star Performer Award:** Awarded Star Performer at [Humanetics India](https://www.linkedin.com/company/humaneticsgroup/posts/?feedView=all) in 2025 for exceptional performance, dedication, and impactful contributions to key projects [↗️](https://github.com/GajendraKaushik/certificates_and_achievements/blob/main/certifates/Star_Performer.PDF). 
 
